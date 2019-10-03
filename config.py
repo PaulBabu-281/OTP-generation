@@ -1,0 +1,2 @@
+EMAIL_ADDRESS="YOUR_EMAIL@gmail.com"
+PASSWORD="******"
